@@ -6,7 +6,7 @@
 
 body{
     color: #d4d9df;
-    background-color: #0F172A;
+    background-color: #5eda42;
     font-family: Inter, sans-serif;
 }
 
@@ -44,6 +44,7 @@ h1{
 header p{
     font-size: 1.5rem;
     font-weight: medium;
+    color: #0F172A;
     @media screen and (max-width: 600px){
         font-size: 1.3rem;
     }
@@ -54,10 +55,12 @@ header p{
 section p{
     font-size: 1.2rem;
     font-weight: 400;
+    color: #0F172A;
 }
 h2{
     font-size: 2.5rem;
     font-weight: 500;
+    color:#0F172A;
     @media screen and (max-width: 600px){
         font-size: 2rem;
     }
