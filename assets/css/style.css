@@ -110,6 +110,10 @@ h6{
 ul.timeline {
     list-style-type: none;
     position: relative;
+    color: #0F172A;
+}
+span{
+    color: #0F172A !important;
 }
 ul.timeline:before {
     content: ' ';
